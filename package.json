@@ -19,11 +19,11 @@
   },
   "homepage": "https://github.com/pekkaliu/fsd-mooc-part3#readme",
   "devDependencies": {
-    "morgan": "^1.9.1",
     "nodemon": "^1.18.11"
   },
   "dependencies": {
     "cors": "^2.8.5",
+    "morgan": "^1.9.1",
     "express": "^4.16.4"
   }
 }
